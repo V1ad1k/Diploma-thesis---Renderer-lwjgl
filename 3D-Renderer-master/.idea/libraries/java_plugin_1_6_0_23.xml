@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java-plugin-1.6.0.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/java-plugin-1.6.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vecmath-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,7 @@
+ShaderProgramTest.class
+SceneTest.class
+CameraTest.class
+TransformationTest.class
+MeshTest.class
+LwjglAppTest.class
+MeshObjectLoaderTest.class
